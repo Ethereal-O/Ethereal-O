@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/Ethereal-O?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ethereal-O)
 
-This is **Ethereal-O**, a senior undergraduate from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) majoring in [software engineering](http://www.se.sjtu.edu.cn/) system software track.
+This is **Ethereal-O**, a student from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) majoring in [software engineering](http://www.se.sjtu.edu.cn/) system software track.
 
 ## More about me
 
