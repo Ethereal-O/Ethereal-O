@@ -25,7 +25,7 @@ This is **Ethereal-O**, a student from [Shanghai Jiao Tong University](http://en
 
 ## More about me
 
-A fine foal dashes without a horsewhip.
+A willing horse needs no spur.
 
 <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ethereal-O&layout=compact&hide=scss,hcl,Tcl&langs_count=5&theme=tokyonight' width='400px'>
 
